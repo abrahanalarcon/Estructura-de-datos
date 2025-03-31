@@ -1,0 +1,22 @@
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\Student Grades 2.exe
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\Student Grades 2.deps.json
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\Student Grades 2.runtimeconfig.json
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\Student Grades 2.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\Student Grades 2.pdb
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Moises\source\repos\Student Grades 2\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.csproj.AssemblyReference.cache
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.AssemblyInfoInputs.cache
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.AssemblyInfo.cs
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student .F2FD8478.Up2Date
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.dll
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\refint\Student Grades 2.dll
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.pdb
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\Student Grades 2.genruntimeconfig.cache
+C:\Users\Moises\source\repos\Student Grades 2\obj\Debug\net8.0\ref\Student Grades 2.dll

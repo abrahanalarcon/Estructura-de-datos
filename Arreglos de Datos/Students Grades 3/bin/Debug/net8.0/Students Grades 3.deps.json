@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Students Grades 3/1.0.0": {
+        "runtime": {
+          "Students Grades 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Students Grades 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

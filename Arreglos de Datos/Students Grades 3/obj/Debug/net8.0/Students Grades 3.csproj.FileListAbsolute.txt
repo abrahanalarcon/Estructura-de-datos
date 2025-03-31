@@ -1,0 +1,14 @@
+C:\Users\Moises\Desktop\Students Grades 3\bin\Debug\net8.0\Students Grades 3.exe
+C:\Users\Moises\Desktop\Students Grades 3\bin\Debug\net8.0\Students Grades 3.deps.json
+C:\Users\Moises\Desktop\Students Grades 3\bin\Debug\net8.0\Students Grades 3.runtimeconfig.json
+C:\Users\Moises\Desktop\Students Grades 3\bin\Debug\net8.0\Students Grades 3.dll
+C:\Users\Moises\Desktop\Students Grades 3\bin\Debug\net8.0\Students Grades 3.pdb
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.AssemblyInfoInputs.cache
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.AssemblyInfo.cs
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.csproj.CoreCompileInputs.cache
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.dll
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\refint\Students Grades 3.dll
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.pdb
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\Students Grades 3.genruntimeconfig.cache
+C:\Users\Moises\Desktop\Students Grades 3\obj\Debug\net8.0\ref\Students Grades 3.dll

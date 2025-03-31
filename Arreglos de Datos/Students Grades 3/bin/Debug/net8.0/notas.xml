@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Estudiantes>
+  <Estudiante>
+    <Apellidos>Guzman Daza</Apellidos>
+    <Nombres>Oscar Javier</Nombres>
+    <Nota1>45</Nota1>
+    <Nota2>56</Nota2>
+    <Nota3>67</Nota3>
+    <Nota4>90</Nota4>
+    <Promedio>64.50</Promedio>
+  </Estudiante>
+</Estudiantes>

@@ -1,0 +1,14 @@
+C:\Users\Moises\source\repos\Student Grades\bin\Debug\net8.0\Student Grades.exe
+C:\Users\Moises\source\repos\Student Grades\bin\Debug\net8.0\Student Grades.deps.json
+C:\Users\Moises\source\repos\Student Grades\bin\Debug\net8.0\Student Grades.runtimeconfig.json
+C:\Users\Moises\source\repos\Student Grades\bin\Debug\net8.0\Student Grades.dll
+C:\Users\Moises\source\repos\Student Grades\bin\Debug\net8.0\Student Grades.pdb
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfoInputs.cache
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.AssemblyInfo.cs
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.csproj.CoreCompileInputs.cache
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.dll
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\refint\Student Grades.dll
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.pdb
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\Student Grades.genruntimeconfig.cache
+C:\Users\Moises\source\repos\Student Grades\obj\Debug\net8.0\ref\Student Grades.dll
